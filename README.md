@@ -164,9 +164,3 @@ The following critical issues were identified in the original code and have been
 
 ---
 
-## ⚠️ Important Implementation Notes
-
-### Leftover Bit Retention for Small Words
-
-> [!NOTE]
->
